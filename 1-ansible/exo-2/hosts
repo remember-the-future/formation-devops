@@ -1,0 +1,6 @@
+[web]
+web1 ansible_host=xxx.xxx.xxx.xxx
+web2 ansible_host=xxx.xxx.xxx.xxx
+
+[loadbalancer]
+haproxy ansible_host=xxx.xxx.xxx.xxx
